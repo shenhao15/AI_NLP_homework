@@ -1,0 +1,8 @@
+作业内容
+NLP--第四次作业--申端明
+作业说明：
+1.代码复现：neural_recoding.ipynb
+2. 理论知识回答： Assignment_4_理论问题回答.ipynb
+3. 二分类图像识别：digits_neural_predict_2.py（遇到的问题是准确率很低，只有50%；不知道为什么）
+4. 多分类图像识别：digits_neural_predict_9.py （参考实现）
+github地址：https://github.com/shenhao15/AI_NLP_homework/tree/master/Assignment-04
