@@ -1,0 +1,7 @@
+作业内容
+NLP--第六次作业--申端明
+作业说明：
+1.代码复现：Assignment_6_recoding.ipynb
+2. 理论知识回答和选做题： Assignment_6.ipynb
+3. 十分类图像识别：Cifar10-Classify文件夹中包含代码和效果图（模型应该能做到90%，但笔记本真的跑不动啦）
+github地址：https://github.com/shenhao15/AI_NLP_homework/tree/master/Assignment-06
