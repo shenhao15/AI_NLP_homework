@@ -1,0 +1,6 @@
+作业内容
+NLP--第八次作业--申端明
+作业说明：
+1.理论问答：assignment-08.ipynb
+github地址：https://github.com/shenhao15/AI_NLP_homework/tree/master/Assignment-08
+本次理论作业，我对一些理论理解起来有些困难，查了好多资料学习后写出了答案，不当之处请助教老师帮助指正。辛苦您啦。谢谢！
