@@ -1,0 +1,7 @@
+作业内容
+NLP--第十次作业--申端明
+作业说明：
+1.理论问答：Assignment_10_theory.ipynb
+2.代码实现：Assignment_10_coding.ipynb
+github地址：https://github.com/shenhao15/AI_NLP_homework/tree/master/Assignment-10
+新闻分类问题总结：通过AUPR、Accuracy、F1 score三个指标对比，Lightgbm效果最好，XGBosst次之，Naive Bayes最差。SVM方法训练速度特别慢，在数据量大、特征多的情况下，SVM方法需要慎重使用。
