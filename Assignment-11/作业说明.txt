@@ -1,0 +1,6 @@
+作业内容
+NLP--第十一次作业--申端明
+作业说明：
+1.代码实现：Assignment_11_coding.ipynb
+github地址：https://github.com/shenhao15/AI_NLP_homework/tree/master/Assignment-11
+总结：拼音纠错问题，尝试了 1-gram model，效果还可以。

@@ -1,0 +1,6 @@
+作业内容：
+NLP--第十一次作业--申端明
+作业说明：
+1. 理论题：Assignment_12_理论题
+2. 代码复现和问题一、二：Assignment_12_codeRepeating_1-2题.ipynb
+3. 问题三：Assignment_12_3题.ipynb
