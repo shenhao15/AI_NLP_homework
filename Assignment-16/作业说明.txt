@@ -1,0 +1,5 @@
+作业内容：
+NLP--第十六次作业--申端明
+作业说明：
+1. 代码复现：Assignment_14_codeRepeating.ipynb
+2. 代码实践：Assignment_14.ipynb
